@@ -8,7 +8,7 @@ public class UIController {
 
 	@GetMapping("/ui")
 	public String getUI() {
-		return "hello from ui from chandra";
+		return "hello from ui ";
 		
 	}
 }
